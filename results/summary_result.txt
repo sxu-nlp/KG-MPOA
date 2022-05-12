@@ -1,0 +1,122 @@
+ÔøΩÔøΩÔøΩÔøΩ¬∑ÔøΩÔøΩresult/smp/w2v/1/mpoa/rand	0.01	0.95
+Testing Acc: 0.7484, F_macro: 0.7399, P_macro: 0.7404, R_macro: 0.7438
+
+             precision    recall  f1-score   support
+
+          0     0.8441    0.7685    0.8045      1663
+          1     0.6031    0.7128    0.6534       989
+          2     0.7741    0.7500    0.7619       996
+
+avg / total     0.7597    0.7484    0.7519      3648
+ÔøΩÔøΩÔøΩÔøΩ¬∑ÔøΩÔøΩresult/smp/w2v/2/mpoa/rand	0.01	0.95
+Testing Acc: 0.7412, F_macro: 0.7291, P_macro: 0.7362, R_macro: 0.7300
+
+             precision    recall  f1-score   support
+
+          0     0.8366    0.7913    0.8133      1663
+          1     0.5882    0.7250    0.6495       989
+          2     0.7839    0.6737    0.7246       996
+
+avg / total     0.7549    0.7412    0.7447      3648
+ÔøΩÔøΩÔøΩÔøΩ¬∑ÔøΩÔøΩresult/smp/w2v/3/mpoa/rand	0.001	0.95
+Testing Acc: 0.5831, F_macro: 0.5932, P_macro: 0.6416, R_macro: 0.6230
+
+             precision    recall  f1-score   support
+
+          0     0.8113    0.4059    0.5411      1663
+          1     0.4114    0.7513    0.5317       989
+          2     0.7020    0.7118    0.7069       996
+
+avg / total     0.6730    0.5831    0.5838      3648
+ÔøΩÔøΩÔøΩÔøΩ¬∑ÔøΩÔøΩresult/smp/w2v/4/mpoa/rand	0.01	0.95
+Testing Acc: 0.7505, F_macro: 0.7391, P_macro: 0.7437, R_macro: 0.7393
+
+             precision    recall  f1-score   support
+
+          0     0.8345    0.8004    0.8171      1663
+          1     0.6029    0.7108    0.6524       989
+          2     0.7937    0.7068    0.7477       996
+
+avg / total     0.7606    0.7505    0.7535      3648
+ÔøΩÔøΩÔøΩÔøΩ¬∑ÔøΩÔøΩresult/smp/w2v/5/mpoa/rand	0.01	0.95
+Testing Acc: 0.7547, F_macro: 0.7396, P_macro: 0.7457, R_macro: 0.7359
+
+             precision    recall  f1-score   support
+
+          0     0.8080    0.8376    0.8226      1663
+          1     0.6262    0.6623    0.6437       989
+          2     0.8030    0.7078    0.7524       996
+
+avg / total     0.7573    0.7547    0.7549      3648
+ÔøΩÔøΩÔøΩÔøΩ¬∑ÔøΩÔøΩresult/smp/w2v/6/mpoa/rand	0.001	0.95
+Testing Acc: 0.7470, F_macro: 0.7358, P_macro: 0.7362, R_macro: 0.7377
+
+             precision    recall  f1-score   support
+
+          0     0.8360    0.7877    0.8111      1663
+          1     0.6039    0.6845    0.6417       989
+          2     0.7688    0.7410    0.7546       996
+
+avg / total     0.7547    0.7470    0.7498      3648
+# Êõ¥Êç¢Ê≥®ÊÑèÂäõÊú∫Âà∂‰ª£Á†ÅÂêéÔºàÁ∫øÊÄßÂ±ÇÔºâ
+ÔøΩÔøΩÔøΩÔøΩ¬∑ÔøΩÔøΩresult/smp/w2v/7/mpoa/rand	0.01	0.95
+Testing Acc: 0.7078, F_macro: 0.6669, P_macro: 0.6836, R_macro: 0.6668
+
+             precision    recall  f1-score   support
+
+          0     0.7385    0.8882    0.8064      1663
+          1     0.5800    0.3923    0.4680       989
+          2     0.7324    0.7199    0.7261       996
+
+avg / total     0.6939    0.7078    0.6928      3648
+ÔøΩÔøΩÔøΩÔøΩ¬∑ÔøΩÔøΩresult/smp/w2v/8/mpoa/rand	0.001	0.95
+Testing Acc: 0.6269, F_macro: 0.6172, P_macro: 0.6254, R_macro: 0.6127
+
+             precision    recall  f1-score   support
+
+          0     0.7048    0.6891    0.6969      1663
+          1     0.4291    0.4985    0.4612       989
+          2     0.7423    0.6506    0.6934       996
+
+avg / total     0.6403    0.6269    0.6320      3648
+ÔøΩÔøΩÔøΩÔøΩ¬∑ÔøΩÔøΩresult/smp/w2v/9/mpoa/rand	0.01	0.95
+Testing Acc: 0.6562, F_macro: 0.6504, P_macro: 0.6642, R_macro: 0.6509
+
+             precision    recall  f1-score   support
+
+          0     0.8248    0.6795    0.7451      1663
+          1     0.4370    0.6026    0.5066       989
+          2     0.7309    0.6707    0.6995       996
+
+avg / total     0.6940    0.6562    0.6680      3648
+# Êõ¥Êç¢ÊàêÂèÇÊï∞
+±£¥Ê¬∑æ∂result/smp/w2v/10/mpoa/rand	0.01	0.95
+Testing Acc: 0.6001, F_macro: 0.5426, P_macro: 0.6568, R_macro: 0.5334
+
+             precision    recall  f1-score   support
+
+          0     0.5668    0.8960    0.6943      1663
+          1     0.5918    0.3488    0.4389       989
+          2     0.8119    0.3554    0.4944       996
+
+avg / total     0.6405    0.6001    0.5705      3648
+±£¥Ê¬∑æ∂result/smp/w2v/11/mpoa/rand	0.01	0.95
+Testing Acc: 0.6113, F_macro: 0.5616, P_macro: 0.6590, R_macro: 0.5499
+
+             precision    recall  f1-score   support
+
+          0     0.5794    0.8839    0.7000      1663
+          1     0.5918    0.3782    0.4614       989
+          2     0.8058    0.3876    0.5234       996
+
+avg / total     0.6446    0.6113    0.5871      3648
+±£¥Ê¬∑æ∂result/smp/w2v/12/mpoa/rand	0.01	0.95
+Testing Acc: 0.7505, F_macro: 0.7421, P_macro: 0.7446, R_macro: 0.7468
+
+             precision    recall  f1-score   support
+
+          0     0.8668    0.7673    0.8140      1663
+          1     0.5904    0.7300    0.6528       989
+          2     0.7765    0.7430    0.7594       996
+
+avg / total     0.7672    0.7505    0.7554      3648

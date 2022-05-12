@@ -13,3 +13,16 @@ python main_vua.py --w2v_embedding_dim 200 --elmo_embedding_dim 1024 --attention
 --query_matrix_path 查询向量路径
 --language_type 数据集类型,可选[中/英]
 --concat_mode 文本与知识结合方式,可选[concat/graph_attention]
+
+
+Citation：
+@article{KG-MPOA,
+title = {Dynamic commonsense knowledge fused method for Chinese implicit sentiment analysis},
+journal = {Information Processing & Management},
+volume = {59},
+number = {3},
+pages = {102934},
+year = {2022},
+issn = {0306-4573},
+author = {Jian Liao and Min Wang and Xin Chen and Suge Wang and Kai Zhang},
+}

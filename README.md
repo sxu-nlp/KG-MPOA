@@ -14,6 +14,13 @@ python main_vua.py --w2v_embedding_dim 200 --elmo_embedding_dim 1024 --attention
 --language_type 数据集类型,可选[中/英]
 --concat_mode 文本与知识结合方式,可选[concat/graph_attention]
 
+3.一些需要的大文件下载地址：
+链接：https://pan.baidu.com/s/1UB1X9-L1xNeFQMF6cP5PWw 
+提取码：i9x1 
+
+链接：https://pan.baidu.com/s/1nn-9lsDFcjCJccQaOQXzEQ 
+提取码：i9x1 
+
 
 Citation：
 @article{KG-MPOA,
